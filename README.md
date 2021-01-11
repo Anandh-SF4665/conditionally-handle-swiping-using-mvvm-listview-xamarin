@@ -1,2 +1,1 @@
-# conditionally-handle-swiping-using-mvvm-listview-xamarin
-How to conditionally handle the swiping using MVVM in Xamarin.Forms ListView (SfListView)
+**[View document in Syncfusion Xamarin Knowledge base](https://www.syncfusion.com/kb/12267/how-to-conditionally-handle-the-swiping-using-mvvm-in-xamarin-forms-listview-sflistview)**
